@@ -44,6 +44,7 @@ File to run :- [todo_app.py](https://github.com/user-attachments/files/22692690/
 Files to run :- [Calculator.py](https://github.com/user-attachments/files/22692810/Calculator.py)
 
 Images:- 
+
 <img width="478" height="672" alt="image" src="https://github.com/user-attachments/assets/23e7fc27-6d40-4da7-8d16-84d14984e981" />
 <img width="473" height="665" alt="image" src="https://github.com/user-attachments/assets/8da26820-2ea7-4cd3-b25c-5eb12cdc719a" />
 
@@ -67,6 +68,7 @@ Images:-
 Files to run :- [Password-Generator.py](https://github.com/user-attachments/files/22692918/Password-Generator.py)
 
 Images :-
+
 <img width="519" height="351" alt="image" src="https://github.com/user-attachments/assets/4e64fb16-d25b-462d-8013-8b0f706bb1af" />
 <img width="584" height="393" alt="image" src="https://github.com/user-attachments/assets/edeec7a4-a027-4fe9-a49b-7efe9586bfc0" />
 
