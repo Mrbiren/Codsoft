@@ -68,3 +68,12 @@ result_label = tk.Label(root, text="", font=("Consolas", 14, "bold"), fg="#2E86C
 result_label.pack(pady=20)
 
 root.mainloop()
+
+
+sudo tee /etc/apt/sources.list.d/docker.sources <<EOF
+Types: deb
+URIs: https://download.docker.com/linux/ubuntu
+Suites: $(. /etc/os-release && echo "${UBUNTU_CODENAME:-$VERSION_CODENAME}")
+Components: stable
+Signed-By: /etc/apt/keyrings/docker.asc
+EOF
